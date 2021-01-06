@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on iOS & Fontend
+- 🔭 I’m currently working on iOS & Frontend
 - 🌱 I’m currently learning Swift
 - 😄 You can reach me on twitter https://twitter.com/cyvvvv 
 
